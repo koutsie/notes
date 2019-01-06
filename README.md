@@ -1,0 +1,2 @@
+# notes
+Blog-ish thing.
