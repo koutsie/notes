@@ -1,4 +1,4 @@
-theme: theme: heiswayi/textlog
+theme: heiswayi/textlog
 plugins:
   - "jekyll-feed"
   - "jekyll-github-metadata"
