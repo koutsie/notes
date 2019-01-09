@@ -1,4 +1,7 @@
-theme: heiswayi/textlog
+theme: "siimple/theme"
+teme_config:
+    color: "red"
+    copyright: "koutsie"
 plugins:
   - "jekyll-feed"
   - "jekyll-github-metadata"
