@@ -1,5 +1,5 @@
 # Nice Things <br />
-I updated https://l1nux.fun/ a lot today!v<br />
+I updated https://l1nux.fun/ a lot today! <br />
 - 9.1 2019 <br />
 
 I got Colour4 RC1 published today, yay i guess.<br />
