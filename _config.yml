@@ -1,4 +1,4 @@
-theme: diezcami/arctic-fox-theme
+theme: theme: jekyll-theme-minimal
 plugins:
   - "jekyll-feed"
   - "jekyll-github-metadata"
